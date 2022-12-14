@@ -1,2 +1,0 @@
-* Cannot run with sound null safety because dependencies don't support null safety
-  * https://stackoverflow.com/questions/64917744/cannot-run-with-sound-null-safety-because-dependencies-dont-support-null-safety
